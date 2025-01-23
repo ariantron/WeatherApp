@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Tokyo",
+        "latitude": 35.6897,
+        "longitude": 139.6922
+    },
+    {
+        "name": "Jakarta",
+        "latitude": -6.175,
+        "longitude": 106.8275
+    },
+    {
+        "name": "Delhi",
+        "latitude": 28.61,
+        "longitude": 77.23
+    },
+    {
+        "name": "Guangzhou",
+        "latitude": 23.13,
+        "longitude": 113.26
+    },
+    {
+        "name": "Mumbai",
+        "latitude": 19.0761,
+        "longitude": 72.8775
+    },
+    {
+        "name": "New York",
+        "latitude": 40.6943,
+        "longitude": -73.9249
+    },
+    {
+        "name": "Los Angeles",
+        "latitude": 34.1141,
+        "longitude": -118.4068
+    },
+    {
+        "name": "Tehran",
+        "latitude": 35.6892,
+        "longitude": 51.3889
+    },
+    {
+        "name": "Paris",
+        "latitude": 48.8567,
+        "longitude": 2.3522
+    },
+    {
+        "name": "London",
+        "latitude": 51.5072,
+        "longitude": -0.1275
+    }
+]
