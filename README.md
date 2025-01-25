@@ -59,6 +59,7 @@ php artisan db:seed
 ```bash
 cd WeatherReactApp
 npm install
+cp .env.example .env # Fill the backend url (VITE_API_URL)
 ```
 
 ### Running the Application
