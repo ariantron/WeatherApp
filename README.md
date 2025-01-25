@@ -28,9 +28,7 @@ Key Features:
 
 
 ### Demo
-<video width="320" height="240" controls>
-  <source src="https://github.com/ariantron/WeatherApp/blob/master/assets/demo.mp4" type="video/mp4">
-</video>
+<video src="https://github.com/ariantron/WeatherApp/raw/refs/heads/master/assets/demo.mp4" width="300" />
 
 ## Getting Started
 
