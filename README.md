@@ -28,7 +28,7 @@ Key Features:
 
 
 ### Demo
-<video src="https://github.com/ariantron/WeatherApp/raw/refs/heads/master/assets/demo.mp4" width="300" />
+https://github.com/user-attachments/assets/b786821f-1303-46a1-8c5a-ec92c3c70f9f
 
 ## Getting Started
 
