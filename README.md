@@ -27,6 +27,10 @@ Key Features:
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
+### Demo
+<video width="320" height="240" controls>
+  <source src="./assets/demo.mp4" type="video/mp4">
+</video>
 
 ## Getting Started
 
@@ -67,6 +71,7 @@ cp .env.example .env # Fill the backend url (VITE_API_URL)
 ```bash
 # Start Laravel backend
 php artisan serve
+php artisan queue:work
 
 # Start React frontend
 npm run dev
