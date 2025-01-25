@@ -44,4 +44,24 @@ class ProcessWeatherJob implements ShouldQueue
             $this->date
         );
     }
+
+    public function getCity(): ?City
+    {
+        return $this->city;
+    }
+
+    public function getLatitude(): float
+    {
+        return $this->latitude;
+    }
+
+    public function getLongitude(): float
+    {
+        return $this->longitude;
+    }
+
+    public function getDate(): Carbon
+    {
+        return $this->date;
+    }
 }

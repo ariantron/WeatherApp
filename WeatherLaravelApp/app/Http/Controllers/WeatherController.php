@@ -42,7 +42,7 @@ class WeatherController extends Controller
 
         if ($validator->fails()) {
             return $this->failed(
-                errors: $validator->errors(),
+                errors: $validator->errors()->toArray(),
                 statusCode: HttpResponse::HTTP_BAD_REQUEST
             );
         }
